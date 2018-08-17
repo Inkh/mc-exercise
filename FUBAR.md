@@ -2,3 +2,5 @@
 > It's almost the weekend I can't wait to sleep. I can't believe how Alice and Ted just stare at each other all day. Ugh, Alice always smells like cheese.
 
 Bob and carol drink too much...feature 2.0
+
+Alice's bag is full of cheese, but she never shares. She made the team weaker as a whole.
