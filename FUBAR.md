@@ -3,4 +3,6 @@
 
 Bob and carol drink too much...feature 2.0
 
-Alice's bag is full of cheese, but she never shares. She made the team weaker as a whole.
+Alice's bag is full of cheese, but she never shares. She made the team weaker as a whole.  
+
+I'm so mad at Bob right now! He drank allllllllll my whiskey and shoved his mouth full of Alice's cheese >: | - Carol
