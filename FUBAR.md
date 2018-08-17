@@ -3,5 +3,14 @@
 
 Bob and carol drink too much...feature 2.0
 
-
 not creating another work branch because there is no more cheese. 
+
+# Alice likes two buck chuck
+
+> Ted ate all of Alice's cheese, but Alice ate all of Bob's banana chips.
+
+### Hey, everyone
+
+I'm trying to create a conflict!!!!!
+
+Alice's bag is full of cheese, but she never shares. She made the team weaker as a whole.
