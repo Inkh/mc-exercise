@@ -3,6 +3,7 @@
 
 Bob and carol drink too much...feature 2.0
 
+not creating another work branch because there is no more cheese. 
 
 Alice's bag is full of cheese, but she never shares. She made the team weaker as a whole.  
 
@@ -15,6 +16,4 @@ I'm so mad at Bob right now! He drank allllllllll my whiskey and shoved his mout
 ### Hey, everyone
 
 I'm trying to create a conflict!!!!!
-
-Alice's bag is full of cheese, but she never shares. She made the team weaker as a whole.
 
